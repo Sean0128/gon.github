@@ -1,0 +1,15 @@
+.container div{
+    display:inline-block;
+    border-radius: 20px 0px 0px 20px;
+}
+
+.item{
+    width:25%;
+    background-color: #E9FF66;
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+    color: #526E89;
+    font-size: 2rem;
+    padding:10px;
+}
